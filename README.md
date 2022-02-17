@@ -11,7 +11,8 @@ Code สำหรับการสร้างเว็บสตรีมมิ
 
 ## ขั้นตอนการใช้งาน
 1. เข้าโฟลเดอร์ node-media-server
-2. เปิด Terminal พิมพ์
+2. โหลด FFMpeg มาลงในโฟลเดอร์ node-media-server ```https://www.ffmpeg.org/download.html```
+3. เปิด Terminal พิมพ์
 ```
 node server.js
 ```
