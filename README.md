@@ -6,6 +6,8 @@ Code สำหรับการสร้างเว็บสตรีมมิ
 ## โปรแกรมที่จำเป็น
 - OBS
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" width="250" height="250">
+- FFMpeg
+<img src="https://www.techtalkthai.com/wp-content/uploads/2018/04/ffmpeg_logo_banner.png" width="400" height="200">
 
 ## ขั้นตอนการใช้งาน
 1. เข้าโฟลเดอร์ node-media-server
