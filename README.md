@@ -26,3 +26,7 @@ npm start
 7. ในช่อง Server กรอก ```rtmp://[SERVER_NAME]:2222/live```
 8. ในช่อง Stream Key กรอกอะไรก็ได้ เพื่อเป็น url เช่น หากเรากรอก test เว็บที่จะใช้ดูก็จะเป็น ```http://[SERVER_NAME]:3000/test```
 9. กด Apply แล้วเริ่มการ Stream
+
+:::danger
+ใส่ command ในช่วงเวลาที่มีคนใช้งานระบบน้อยที่สุดเช่น 01:00 น. เพราะหลังใส่ command ไปแล้ว mongoDB จะไม่สามารถ Query ได้
+:::
